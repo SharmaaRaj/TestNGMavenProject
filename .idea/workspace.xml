@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cbfd757-1517-4698-beee-c8c71f041e8b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/TestProjectMaven/src/main/java/org/example/SauceDemoLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectMaven/src/main/java/org/example/SauceDemoLoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestProjectMaven/src/main/java/org/example/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectMaven/src/main/java/org/example/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestProjectMaven/src/test/java/org/example/StepDefinitions/LoginPageDetailsSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectMaven/src/test/java/org/example/StepDefinitions/LoginPageDetailsSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestProjectMaven/src/test/resources/Features/LoginPage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectMaven/src/test/resources/Features/LoginPage.feature" afterDir="false" />
-    </list>
+    <list default="true" id="8cbfd757-1517-4698-beee-c8c71f041e8b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,25 +13,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2zwF42Vl3MtJF9YWgGOqPYAhxQB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "TestNG.TestNGCucumberRunner.executor": "Run",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Sharma Raj S/IdeaProjects/Git/TestNGMavenProject"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.TestNGCucumberRunner.executor&quot;: &quot;Run&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sharma Raj S/IdeaProjects/Git/TestNGMavenProject&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
