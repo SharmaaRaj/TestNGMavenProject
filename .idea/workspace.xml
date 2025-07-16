@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8cbfd757-1517-4698-beee-c8c71f041e8b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/TestProjectMaven/src/main/java/org/example/SauceDemoLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectMaven/src/main/java/org/example/SauceDemoLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProjectMaven/src/main/java/org/example/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectMaven/src/main/java/org/example/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProjectMaven/src/test/java/org/example/StepDefinitions/LoginPageDetailsSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectMaven/src/test/java/org/example/StepDefinitions/LoginPageDetailsSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProjectMaven/src/test/resources/Features/LoginPage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/TestProjectMaven/src/test/resources/Features/LoginPage.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2zwF42Vl3MtJF9YWgGOqPYAhxQB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.TestNGCucumberRunner.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Sharma Raj S/IdeaProjects/Git/TestNGMavenProject"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../../TestProjectMaven" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNGCucumberRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestProjectMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.CucumberOptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.CucumberOptions" />
+      <option name="MAIN_CLASS_NAME" value="org.example.CucumberOptions.TestNGCucumberRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestNGCucumberRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cbfd757-1517-4698-beee-c8c71f041e8b" name="Changes" comment="" />
+      <created>1752634034129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752634034129</updated>
+    </task>
+    <servers />
+  </component>
+</project>
