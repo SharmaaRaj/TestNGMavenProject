@@ -51,12 +51,6 @@ public class LoginPageDetailsSteps {
         sauceDemoLoginPage.validateCookies(expectedCookie, expectedCookieName);
     }
 
-    @Then("I should see an error message")
-    public void i_should_see_an_error_message() {
-        // Write code here that turns the phrase above into concrete actions
-        throw new io.cucumber.java.PendingException();
-    }
-
     @When("I click the error close icon")
     public void i_click_the_error_close_icon() {
         sauceDemoLoginPage.clickErrorCloseIcon();
@@ -67,28 +61,10 @@ public class LoginPageDetailsSteps {
         sauceDemoLoginPage.errorMessageDisappear();
     }
 
-    @Given("I log in with username {string} and password {string}")
-    public void i_log_in_with_username_and_password(String string, String string2) {
-        // Write code here that turns the phrase above into concrete actions
-        throw new io.cucumber.java.PendingException();
-    }
+    @Then("I Close the browser")
+    public void then_i_close_the_browser() {
+        sauceDemoLoginPage.closeBroswer();
 
-    @When("I logout from the application")
-    public void i_logout_from_the_application() {
-        // Write code here that turns the phrase above into concrete actions
-        throw new io.cucumber.java.PendingException();
-    }
-
-    @When("I log in again with valid credentials")
-    public void i_log_in_again_with_valid_credentials() {
-        // Write code here that turns the phrase above into concrete actions
-        throw new io.cucumber.java.PendingException();
-    }
-
-    @Then("I should not see any error message")
-    public void i_should_not_see_any_error_message() {
-        // Write code here that turns the phrase above into concrete actions
-        throw new io.cucumber.java.PendingException();
     }
 
 

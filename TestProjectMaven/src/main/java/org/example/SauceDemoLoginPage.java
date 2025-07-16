@@ -135,4 +135,8 @@ public class SauceDemoLoginPage {
     public void errorMessageDisappear() {
         basicActions.elementNotVisible(errorMessageCloseIcon);
     }
+
+    public void closeBroswer() {
+        Utils.quitBrowser();
+    }
 }

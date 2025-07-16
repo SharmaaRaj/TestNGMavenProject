@@ -47,7 +47,6 @@ public class Utils {
     public void closeBrowser() {
         if (driver != null) {
             driver.close();
-            System.out.println("Browser closed successfully");
         } else {
             System.out.println("No browser to close");
         }
@@ -56,7 +55,6 @@ public class Utils {
     public static void quitBrowser() {
         if (driver != null) {
             driver.quit();
-            System.out.println("Browser Quit successfully");
         } else {
             System.out.println("No browser to close");
         }
